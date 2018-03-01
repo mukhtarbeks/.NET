@@ -1,0 +1,81 @@
+﻿@model IEnumerable<MuhktarWebApp.Models.Classes.Count>
+
+@{
+    ViewData["Title"] = "Count of Orders";
+}
+
+<h2>Table</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Start)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.End)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FinishDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CanceledCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompletedCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RefundedCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Percent)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Start)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.End)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FinishDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CanceledCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompletedCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RefundedCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Percent)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

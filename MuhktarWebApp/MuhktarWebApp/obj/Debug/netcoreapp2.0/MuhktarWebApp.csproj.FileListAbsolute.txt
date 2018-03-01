@@ -1,0 +1,11 @@
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\bin\Debug\netcoreapp2.0\MuhktarWebApp.deps.json
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\bin\Debug\netcoreapp2.0\MuhktarWebApp.runtimeconfig.json
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\bin\Debug\netcoreapp2.0\MuhktarWebApp.runtimeconfig.dev.json
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\bin\Debug\netcoreapp2.0\MuhktarWebApp.dll
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\bin\Debug\netcoreapp2.0\MuhktarWebApp.pdb
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\obj\Debug\netcoreapp2.0\MuhktarWebApp.csprojResolveAssemblyReference.cache
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\obj\Debug\netcoreapp2.0\MuhktarWebApp.csproj.CoreCompileInputs.cache
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\obj\Debug\netcoreapp2.0\MuhktarWebApp.AssemblyInfoInputs.cache
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\obj\Debug\netcoreapp2.0\MuhktarWebApp.AssemblyInfo.cs
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\obj\Debug\netcoreapp2.0\MuhktarWebApp.dll
+c:\users\farabi\source\repos\MuhktarWebApp\MuhktarWebApp\obj\Debug\netcoreapp2.0\MuhktarWebApp.pdb
